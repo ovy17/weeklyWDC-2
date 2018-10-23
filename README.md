@@ -6,3 +6,5 @@ I'm using here:
 - Bootstrap 4
 - jQuery 
 and Lightbox by Lokesh Dhakar
+
+Online version https://ovy17.github.io/weeklyWDC-2/.
